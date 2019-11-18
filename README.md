@@ -8,9 +8,9 @@
 * 두명이 하나씩 맡는게 어떨지?
 * 대규모 협업에 적합한 ActivityStarter
 
-Image Picker  : 김경륜, 찰스님
-Acitivity Starter : (보류)
-화면녹화라이브러리 : Derrick 님
-Swipeable Recyclerview : 석원님
+Image Picker  : 김경륜, 찰스님 </p>
+Acitivity Starter : (보류) </p>
+화면녹화라이브러리 : Derrick 님 </p>
+Swipeable Recyclerview : 석원님 </p>
 
 
