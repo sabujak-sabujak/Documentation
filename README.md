@@ -6,7 +6,7 @@
 
 [Pickle](https://github.com/sabujak-sabujak/Pickle) (이미지 피커)  : 김경륜, 찰스님
 
-[ScreenRecorder](https://github.com/sabujak-sabujak/ScreenRecorder)(화면녹화) : Derrick 님
+[Footprints](https://github.com/sabujak-sabujak/Footprints)(화면녹화) : Derrick 님
 
 [ShyShark](https://github.com/sabujak-sabujak/ShyShark)(틴더) : 석원님
 
